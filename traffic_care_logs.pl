@@ -55,7 +55,7 @@ my @trafficCareLogs = ('src_ton',
 		       'rcpt_o_err_val',
 		       ',',
 		       ',',
-		       "EOL");
+		       'EOL');
 
 my $options = {
     'man'       => 0,
